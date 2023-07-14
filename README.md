@@ -15,7 +15,7 @@ This Dart package provides functionality for calculating accurate Islamic prayer
 
 ## Installation
 
-To use this package, add `salat` as a dependency in your project's terminal:
+To install this package :
 
 ```bash
 dart pub add salat
