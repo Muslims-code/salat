@@ -1,6 +1,6 @@
 # Prayer Time Dart Package
 
-[![Pub](https://img.shields.io/pub/v/prayer_times.svg)](https://pub.dev/packages/salat)
+[![Pub](https://img.shields.io/pub/v/salat.svg)](https://pub.dev/packages/salat)
 
 This Dart package provides functionality for calculating accurate Islamic prayer times. It is a translation of the original [Salat](https://github.com/zainhussaini/salat/) repository, bringing the power and flexibility of prayer time calculations to the Dart ecosystem.
 
