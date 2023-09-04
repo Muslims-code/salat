@@ -48,7 +48,7 @@ List eotDecl(DateTime time) {
       assert((0 <= alpha) && (alpha < math.pi / 2));
     } else if (lam < math.pi * 3 / 2) {
       alpha += math.pi;
-      assert((math.pi * 3 / 2 <= alpha) && (alpha < 2 * math.pi));
+      assert((math.pi / 2 <= alpha) && (alpha < math.pi * 3 /2));
     } else {
       alpha += 2 * math.pi;
       assert((math.pi * 3 / 2 <= alpha) && (alpha < 2 * math.pi));
